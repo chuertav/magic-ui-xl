@@ -7,24 +7,16 @@
 ![Components](https://img.shields.io/badge/components-80%2B-purple)
 
 ---
-
 ## ☕ Support This Project
 
-If this skill saves you time, consider buying me a coffee! Every $1 helps keep this project maintained and growing.
+If this skill saves you time, consider buying me a coffee! Every $1 helps keep this project maintained.
 
-<a href="https://buymeacoffee.com/magicuixl" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-</a>
-
-[![PayPal](https://img.shields.io/badge/PayPal-Donate_$1-blue?logo=paypal)](https://paypal.me/magicuixl)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f?logo=ko-fi)](https://ko-fi.com/magicuixl)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate_$1-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CESARHUERTAVENTURA)
 
 **Other ways to support:**
 - ⭐ Star this repo
 - 🐛 Report bugs
-- 🔀 Submit PRs
 - 📣 Share with friends
-
 ---
 
 ## 🎯 What is this?
